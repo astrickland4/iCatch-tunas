@@ -1,4 +1,4 @@
-## iCatch - tunas
+## iCatch tunas
 
 This project uses CRISPR-Cas13/SHERLOCK to detect species of tuna that are of high commercial value and importance. 
 

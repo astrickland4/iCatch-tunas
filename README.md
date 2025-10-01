@@ -12,7 +12,7 @@ Samples are stored in the sample collections cabinet at the NCSU campus. This is
 
 ### File structure
 
-**data**: holds all data generated from this project. This includes DNA quantification, TapeStation results, sequencing results, etc. \
+**data**: holds all data generated from this project. \
 **analyses**: holds all analyses conducted for this project. \
 **publications**: holds all files needed for publications related to this project.
 

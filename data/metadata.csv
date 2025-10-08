@@ -1,0 +1,274 @@
+﻿Sample_species,Species_code,Sample_number,Sample_code,Date_collected,Date_formatted,Location_sample,Location_notes,Location_lat,Location_long,Location_code,Collected_by,Sample_type,Sample_detail,Original_name,Sample_name
+Thunnus obesus,BET,79,BET079,2023-03-15,20230315,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,BET079_IO_20230315
+Thunnus obesus,BET,80,BET080,2023-03-15,20230315,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,BET080_IO_20230315
+Thunnus obesus,BET,81,BET081,2023-03-15,20230315,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,BET081_IO_20230315
+Thunnus obesus,BET,82,BET082,2023-03-16,20230316,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,BET082_IO_20230316
+Thunnus obesus,BET,114,BET114,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,BET114_IO_20230425
+Thunnus obesus,BET,113,BET113,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Abdourmane Anffane,Fin clip,dried,,BET113_IO_20230425
+Thunnus obesus,BET,112,BET112,2023-04-23,20230423,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Abdourmane Anffane,Fin clip,dried,,BET112_IO_20230423
+Thunnus obesus,BET,83,BET083,2023-03-16,20230316,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,BET083_IO_20230316
+Thunnus obesus,BET,84,BET084,2023-03-16,20230316,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,BET084_IO_20230316
+Thunnus obesus,BET,119,BET119,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Abdourmane Anffane,Fin clip,dried,,BET119_IO_20230425
+Thunnus obesus,BET,120,BET120,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Abdourmane Anffane,Fin clip,dried,,BET120_IO_20230425
+Thunnus obesus,BET,121,BET121,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Abdourmane Anffane,Fin clip,dried,,BET121_IO_20230425
+Thunnus alalunga,ALB,46,ALB046,2017-08-23,20170823,Fiji,,-19.39166667,177.2,FJ,,Tissue,came from storage bank,ALB_WCPFC_FJ_46,ALB046_FJ_20170823
+Thunnus obesus,BET,9,BET009,2024-08-11,20240811,Palmyra Atoll,not exact coordinates,5.88466,-162.128365,PA,Kydd Pollock,Fin clip,in solution,,BET009_PA_20240811
+Thunnus atlanticus,BKT,53,BKT053,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,BKFT_OIFC_NC_53,BKT053_NC_20220907
+Thunnus atlanticus,BKT,54,BKT054,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,BKFT_OIFC_NC_54,BKT054_NC_20220907
+Thunnus atlanticus,BKT,55,BKT055,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,BKFT_OIFC_NC_55,BKT055_NC_20220907
+Thunnus atlanticus,BKT,56,BKT056,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,BKFT_OIFC_NC_56,BKT056_NC_20220907
+Thunnus atlanticus,BKT,52,BKT052,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,BKFT_OIFC_NC_57,BKT052_NC_20220907
+Thunnus atlanticus,BKT,58,BKT058,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,BKFT_OIFC_NC_58,BKT058_NC_20220907
+Thunnus atlanticus,BKT,64,BKT064,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,BKFT_OIFC_NC_64,BKT064_NC_20220907
+Thunnus atlanticus,BKT,65,BKT065,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,BKFT_OIFC_NC_65,BKT065_NC_20220907
+Thunnus atlanticus,BKT,66,BKT066,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,BKFT_OIFC_NC_66,BKT066_NC_20220907
+Thunnus obesus,BET,77,BET077,2023-03-11,20230311,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,BET077_IO_20230311
+Thunnus obesus,BET,78,BET078,2023-03-11,20230311,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,BET078_IO_20230311
+Thunnus obesus,BET,115,BET115,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Abdourmane Anffane,Fin clip,dried,,BET115_IO_20230425
+Thunnus obesus,BET,116,BET116,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Abdourmane Anffane,Fin clip,dried,,BET116_IO_20230425
+Thunnus obesus,BET,117,BET117,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Abdourmane Anffane,Fin clip,dried,,BET117_IO_20230425
+Thunnus atlanticus,BKT,67,BKT067,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,BKFT_OIFC_NC_67,BKT067_NC_20220907
+Thunnus orientalis,PBT,18,PBT018,2019-09-30,20190930,California,not exact coordinates,32.677513,-117.436728,CA,NOAA SWFSC,Fin clip,in solution,PBFT_SWFSC_CA_949-18,PBT018_CA_20190930
+Thunnus orientalis,PBT,20,PBT020,2019-10-02,20191002,California,not exact coordinates,32.677513,-117.436728,CA,NOAA SWFSC,Fin clip,in solution,PBFT_SWFSC_CA_949-20,PBT020_CA_20191002
+Thunnus orientalis,PBT,125,PBT125,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,PBT125_NZ_20240521
+Thunnus orientalis,PBT,126,PBT126,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,PBT126_NZ_20240521
+Thunnus orientalis,PBT,127,PBT127,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,PBT127_NZ_20240521
+Thunnus orientalis,PBT,521,PBT521,2023-02-11,20230211,South Australia,,-35.582749,138.631006,SA,Flinders,Tissue,in solution,TC521M,PBT521_SA_20230211
+Thunnus orientalis,PBT,522,PBT522,2023-02-11,20210211,South Australia,,-35.582749,138.631006,SA,Flinders,Tissue,in solution,TC522M,PBT522_SA_20210211
+Thunnus orientalis,PBT,1,PBT001,2019-09-13,20190913,California,not exact coordinates,32.677513,-117.436728,CA,NOAA SWFSC,Tissue,in solution,PBFT_SWFSC_CA_949-1,PBT001_CA_20190913
+Thunnus orientalis,PBT,2,PBT002,2019-09-14,20190914,California,not exact coordinates,32.677513,-117.436728,CA,NOAA SWFSC,Tissue,in solution,PBFT_SWFSC_CA_949-2,PBT002_CA_20190914
+Thunnus orientalis,PBT,120,PBT120,2024-04-27,20240427,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,PBT120_NZ_20240427
+Thunnus orientalis,PBT,121,PBT121,2024-04-23,20240423,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,PBT121_NZ_20240423
+Thunnus orientalis,PBT,122,PBT122,2024-04-23,20240423,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,PBT122_NZ_20240423
+Thunnus orientalis,PBT,123,PBT123,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,PBT123_NZ_20240521
+Thunnus orientalis,PBT,124,PBT124,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,PBT124_NZ_20240521
+Thunnus orientalis,PBT,TC37M,PBT037,2022-02-05,20220205,South Australia,,-35.582749,138.631006,SA,Flinders,Tissue,in solution,,PBT037_SA_20220205
+Thunnus orientalis,PBT,TC38M,PBT038,2022-02-05,20220205,South Australia,,-35.582749,138.631006,SA,Flinders,Tissue,in solution,,PBT038_SA_20220205
+Thunnus orientalis,PBT,TC520M,PBT520,2023-02-11,20220211,South Australia,,-35.582749,138.631006,SA,Flinders,Tissue,in solution,,PBT520_SA_20220211
+Thunnus albacares,YFT,1,YFT001,2022-06-03,22020603,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,YFT_OIFC_NC_1,YFT001_NC_22020603
+Thunnus albacares,YFT,2,YFT002,2024-08-09,20240809,Palmyra Atoll,not exact coordinates,5.88466,-162.128365,PA,Kydd Pollock,Fin clip,in solution,,YFT002_PA_20240809
+Thunnus albacares,YFT,28,YFT028,2025-06-21,20250621,Virginia,not exact coordinates,36.829432,-75.945295,VA,Nadya Mamoozadeh,Fin clip,dried,,YFT028_VA_20250621
+Thunnus albacares,YFT,17,YFT017,2025-06-21,20250621,Virginia,not exact coordinates,36.829432,-75.945295,VA,Nadya Mamoozadeh,Fin clip,dried,,YFT017_VA_20250621
+Thunnus albacares,YFT,10,YFT010,2025-06-21,20250621,Virginia,not exact coordinates,36.829432,-75.945295,VA,Nadya Mamoozadeh,Fin clip,dried,,YFT010_VA_20250621
+Thunnus albacares,YFT,12,YFT012,2025-06-21,20250621,Virginia,not exact coordinates,36.829432,-75.945295,VA,Nadya Mamoozadeh,Fin clip,dried,,YFT012_VA_20250621
+Thunnus albacares,YFT,21,YFT021,2025-06-21,20250621,Virginia,not exact coordinates,36.829432,-75.945295,VA,Nadya Mamoozadeh,Fin clip,dried,,YFT021_VA_20250621
+Thunnus albacares,YFT,309,YFT309,2023-10-08,20231008,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Polard,Fin clip,dried,,YFT309_IO_20231008
+Thunnus maccoyii,SBT,25,SBT025,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT025_NZ_20240520
+Thunnus maccoyii,SBT,26,SBT026,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT026_NZ_20240520
+Thunnus maccoyii,SBT,27,SBT027,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT027_NZ_20240520
+Thunnus maccoyii,SBT,28,SBT028,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT028_NZ_20240520
+Thunnus maccoyii,SBT,31,SBT031,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT031_NZ_20240520
+Thunnus maccoyii,SBT,32,SBT032,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT032_NZ_20240520
+Thunnus orientalis,SBT,523,SBT523,2023-02-11,20230211,South Australia,,-35.582749,138.631006,SA,Flinders,Tissue,in solution,TC523M,SBT523_SA_20230211
+Thunnus orientalis,SBT,524,SBT524,2023-02-11,20230211,South Australia,,-35.582749,138.631006,SA,Flinders,Tissue,in solution,TC524M,SBT524_SA_20230211
+Katsuwonus pelamis,SKJ,101,SKJ101,2023-03-06,20230306,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,SKJ101_IO_20230306
+Thunnus albacares,YFT,11,YFT011,2025-06-21,20250621,Virginia,not exact coordinates,36.829432,-75.945295,VA,Nadya Mamoozadeh,Fin clip,dried,,YFT011_VA_20250621
+Thunnus albacares,YFT,22,YFT022,2025-06-21,20250621,Virginia,not exact coordinates,36.829432,-75.945295,VA,Nadya Mamoozadeh,Fin clip,dried,,YFT022_VA_20250621
+Thunnus albacares,YFT,39,YFT039,2022-05-31,20220531,Palmyra Atoll,not exact coordinates,5.88466,-162.128365,PA,Kydd Pollock,Fin clip,in solution,YFT_TNC_Palm_39,YFT039_PA_20220531
+Thunnus albacares,YFT,40,YFT040,2022-05-31,20220531,Palmyra Atoll,not exact coordinates,5.88466,-162.128365,PA,Kydd Pollock,Fin clip,in solution,YFT_TNC_Palm_40,YFT040_PA_20220531
+Thunnus albacares,YFT,41,YFT041,2022-05-31,20220531,Palmyra Atoll,not exact coordinates,5.88466,-162.128365,PA,Kydd Pollock,Fin clip,in solution,YFT_TNC_Palm_41,YFT041_PA_20220531
+Thunnus albacares,YFT,42,YFT042,2022-05-31,20220531,Palmyra Atoll,not exact coordinates,5.88466,-162.128365,PA,Kydd Pollock,Fin clip,in solution,YFT_TNC_Palm_42,YFT042_PA_20220531
+Thunnus albacares,YFT,43,YFT043,2022-06-01,20220601,Palmyra Atoll,not exact coordinates,5.88466,-162.128365,PA,Kydd Pollock,Fin clip,in solution,YFT_TNC_Palm_43,YFT043_PA_20220601
+Thunnus albacares,YFT,44,YFT044,2022-05-31,20220531,Palmyra Atoll,not exact coordinates,5.88466,-162.128365,PA,Kydd Pollock,Fin clip,in solution,YFT_TNC_Palm_44,YFT044_PA_20220531
+Thunnus albacares,YFT,45,YFT045,2022-06-01,20220601,Palmyra Atoll,not exact coordinates,5.88466,-162.128365,PA,Kydd Pollock,Fin clip,in solution,YFT_TNC_Palm_45,YFT045_PA_20220601
+Thunnus albacares,YFT,2,YFT002,2022-06-03,20220603,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,YFT_OIFC_NC_2,YFT002_NC_20220603
+Thunnus albacares,YFT,3,YFT003,2022-06-03,20220603,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,YFT_OIFC_NC_3,YFT003_NC_20220603
+Thunnus albacares,YFT,4,YFT004,2022-06-03,20220603,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,YFT_OIFC_NC_4,YFT004_NC_20220603
+Thunnus albacares,YFT,5,YFT005,2022-06-03,20220603,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,YFT_OIFC_NC_5,YFT005_NC_20220603
+Thunnus albacares,YFT,6,YFT006,2022-06-03,20220603,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,YFT_OIFC_NC_6,YFT006_NC_20220603
+Thunnus albacares,YFT,53,YFT053,2023-03-28,20230328,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,YFT053_IO_20230328
+Thunnus maccoyii,SBT,11,SBT011,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT011_NZ_20240521
+Thunnus maccoyii,SBT,12,SBT012,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT012_NZ_20240521
+Thunnus albacares,YFT,94,YFT094,2023-07-30,20230730,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Abdourmane Anffane,Fin clip,dried,,YFT094_IO_20230730
+Thunnus maccoyii,SBT,132,SBT132,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT132_NZ_20240521
+Thunnus maccoyii,SBT,133,SBT133,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT133_NZ_20240521
+Thunnus maccoyii,SBT,134,SBT134,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT134_NZ_20240521
+Thunnus maccoyii,SBT,135,SBT135,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT135_NZ_20240521
+Thunnus maccoyii,SBT,136,SBT136,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT136_NZ_20240521
+Thunnus maccoyii,SBT,131,SBT131,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT131_NZ_20240521
+Thunnus maccoyii,SBT,117,SBT117,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT117_NZ_20240521
+Katsuwonus pelamis,SKJ,29,SKJ029,2023-03-06,20230306,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,SKJ029_IO_20230306
+Katsuwonus pelamis,SKJ,28,SKJ028,2023-03-06,20230306,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,SKJ028_IO_20230306
+Katsuwonus pelamis,SKJ,23,SKJ023,2023-03-06,20230306,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,SKJ023_IO_20230306
+Katsuwonus pelamis,SKJ,54,SKJ054,2023-03-07,20230307,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Kouame Serge,Fin clip,dried,,SKJ054_IO_20230307
+Katsuwonus pelamis,SKJ,228,SKJ228,2023-04-09,20230409,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Chaumont,Fin clip,dried,,SKJ228_IO_20230409
+Katsuwonus pelamis,SKJ,227,SKJ227,2023-04-09,20230409,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Chaumont,Fin clip,dried,,SKJ227_IO_20230409
+Katsuwonus pelamis,SKJ,221,SKJ221,2023-05-06,20230506,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Chaumont,Fin clip,dried,,SKJ221_IO_20230506
+Katsuwonus pelamis,SKJ,222,SKJ222,2023-05-06,20230506,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,Chaumont,Fin clip,dried,,SKJ222_IO_20230506
+Katsuwonus pelamis,SKJ,212,SKJ212,2023-06-02,20230602,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ212_IO_20230602
+Katsuwonus pelamis,SKJ,99,SKJ099,2023-04-14,20230414,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ099_IO_20230414
+Katsuwonus pelamis,SKJ,96,SKJ096,2023-04-14,20230414,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ096_IO_20230414
+Katsuwonus pelamis,SKJ,97,SKJ097,2023-04-14,20230414,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ097_IO_20230414
+Thunnus atlanticus,BKT,68,BKT068,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BKT068_NC_20220907
+Thunnus albacares,YFT,7,YFT007,2022-06-15,20220615,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,YFT007_NC_20220615
+Thunnus albacares,YFT,8,YFT008,2022-06-15,20220615,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,YFT008_NC_20220615
+Thunnus thynnus,SBT,821,SBT821,2024-02-10,20240210,South Australia,,-35.582749,138.631006,SA,Flinders,Tissue,in solution,,SBT821_SA_20240210
+Thunnus orientalis,PBT,13,PBT013,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,PBT013_NZ_20240521
+Thunnus maccoyii,SBT,34,SBT034,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT034_NZ_20240520
+Thunnus atlanticus,BKT,208,BKT208,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,BKT208_FL_20230329
+Thunnus atlanticus,BKT,414,BKT414,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,BKT414_FL_20230329
+Thunnus atlanticus,BKT,416,BKT416,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,BKT416_FL_20230329
+Thunnus atlanticus,BKT,417,BKT417,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,BKT417_FL_20230329
+Thunnus atlanticus,BKT,418,BKT418,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,BKT418_FL_20230329
+Thunnus thynnus,BFT,108,BFT108,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,BFT108_FL_20230329
+Thunnus thynnus,BFT,159,BFT159,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,BFT159_FL_20230329
+Thunnus thynnus,BFT,110,BFT110,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,BFT110_FL_20230329
+Thunnus thynnus,BFT,459,BFT459,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,BFT459_FL_20230329
+Thunnus thynnus,BFT,463,BFT463,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,BFT463_FL_20230329
+Thunnus thynnus,BFT,470,BFT470,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,BFT470_FL_20230329
+Katsuwonus pelamis,SKJ,61,SKJ061,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,SKJ061_FL_20230329
+Thunnus maccoyii,SBT,156,SKJ156,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SKJ156_NZ_20240520
+Thunnus maccoyii,SBT,3,SBT003,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT003_NZ_20240521
+Thunnus maccoyii,SBT,5,SBT005,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT005_NZ_20240521
+Thunnus orientalis,SBT,6,SBT006,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT006_NZ_20240521
+Thunnus maccoyii,SBT,7,SBT007,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT007_NZ_20240521
+Thunnus orientalis,PBT,8,SBT008,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT008_NZ_20240521
+Thunnus alalunga,ALB,134,ALB134,2023-04-30,20230430,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,ALB134_IO_20230430
+Thunnus orientalis,PBT,3,PBT003,2019-09-15,20190915,California,not exact coordinates,32.677513,-117.436728,CA,NOAA SWFSC,Fin clip,in solution,,PBT003_CA_20190915
+Thunnus orientalis,PBT,TC34M,PBT034,2022-02-05,20220205,South Australia,,-35.582749,138.631006,SA,Flinders,Tissue,in solution,,PBT034_SA_20220205
+Thunnus orientalis,PBT,TC35M,PBT035,2022-02-05,20220205,South Australia,,-35.582749,138.631006,SA,Flinders,Tissue,in solution,,PBT035_SA_20220205
+Thunnus maccoyii,SBT,29,SBT029,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT029_NZ_20240520
+Thunnus maccoyii,SBT,30,SBT030,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT030_NZ_20240520
+Katsuwonus pelamis,SKJ,102,SKJ102,2023-04-14,20230414,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ102_IO_20230414
+Katsuwonus pelamis,SKJ,45,SKJ045,2023-03-06,20230306,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ045_IO_20230306
+Thunnus maccoyii,SBT,152,SBT152,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT152_NZ_20240520
+Thunnus maccoyii,SBT,154,SBT154,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT154_NZ_20240520
+Thunnus maccoyii,SBT,155,SBT155,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT155_NZ_20240520
+Thunnus maccoyii,SBT,158,SBT158,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT158_NZ_20240520
+Thunnus maccoyii,SBT,1,SBT001,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT001_NZ_20240521
+Thunnus maccoyii,SBT,2,SBT002,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT002_NZ_20240521
+Thunnus maccoyii,SBT,4,SBT004,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT004_NZ_20240521
+Thunnus obesus,BET,211,BE211,2022-03-30,20220330,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BE211_HI_20220330
+Thunnus obesus,BET,203,BET203,2022-03-28,20220328,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BET203_HI_20220328
+Thunnus albacares,YFT,188,YFT188,2022-03-08,20220308,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,YFT188_HI_20220308
+Thunnus obesus,BET,217,BET217,2022-03-30,20220330,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BET217_HI_20220330
+Thunnus obesus,BET,218,BET218,2022-03-30,20220330,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BET218_HI_20220330
+Thunnus obesus,BET,210,BET210,2022-03-30,20220330,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BET210_HI_20220330
+Thunnus alalunga,ALB,192,ALB192,2022-03-23,20220323,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB192_HI_20220323
+Thunnus alalunga,ALB,225,ALB225,2022-04-01,20220401,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB225_HI_20220401
+Thunnus alalunga,ALB,555,ALB555,2022-04-15,20220415,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB555_HI_20220415
+Thunnus alalunga,ALB,554,ALB554,2022-04-15,20220415,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB554_HI_20220415
+Thunnus alalunga,ALB,209,ALB209,2022-04-19,20220419,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB209_HI_20220419
+Katsuwonus pelamis,SKJ,71,SKJ071,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,SKJ071_FL_20230329
+Katsuwonus pelamis,SKJ,74,SKJ074,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,SKJ074_FL_20230329
+Katsuwonus pelamis,SKJ,86,SKJ086,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,SKJ086_FL_20230329
+Katsuwonus pelamis,SKJ,87,SKJ087,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,SKJ087_FL_20230329
+Thunnus atlanticus,BKT,415,BKT415,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,BKT415_FL_20230329
+Thunnus atlanticus,BKT,205,BKT205,2023-03-29,20230329,Florida,not exact coordinates,25.634919,-79.636158,FL,SEFSC,Larvae,,,BKT205_FL_20230329
+Thunnus alalunga,ALB,193,ALB193,2022-04-19,20220419,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB193_HI_20220419
+Thunnus alalunga,ALB,135,ALB135,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,ALB135_IO_20230523
+Thunnus orientalis,PBT,138,PBT138,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,PBT138_NZ_20240521
+Thunnus orientalis,PBT,820,PBT820,2024-02-10,20240210,South Australia,,-35.582749,138.631006,SA,Flinders,Tissue,in solution,,PBT820_SA_20240210
+Katsuwonus pelamis,SKJ,51,SKJ051,2023-03-07,20230307,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ051_IO_20230307
+Thunnus orientalis,PBT,19,PBT019,2024-05-21,20240521,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,PBT019_NZ_20240521
+Thunnus maccoyii,SBT,33,SBT033,2024-05-20,20240520,New Zealand,,-37.22,179.09,NZ,Rick Pollock,Fin clip,in solution,,SBT033_NZ_20240520
+Thunnus alalunga,ALB,105,ALB105,2020-11-25,20201125,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,in solution,,ALB105_NA_20201125
+Thunnus atlanticus,BKT,71,BKT071,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BKT071_NC_20220907
+Thunnus atlanticus,BKT,70,BKT070,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BKT070_NC_20220907
+Thunnus atlanticus,BKT,69,BKT069,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BKT069_NC_20220907
+Thunnus atlanticus,BKT,62,BKT062,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BKT062_NC_20220907
+Thunnus atlanticus,BKT,46,BKT046,2022-08-19,20220819,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BKT046_NC_20220819
+Thunnus atlanticus,BKT,43,BKT043,2022-08-19,20220819,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BKT043_NC_20220819
+Thunnus atlanticus,BKT,72,BKT072,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BKT072_NC_20220907
+Thunnus alalunga,ALB,558,ALB558,2022-04-15,20220415,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB558_HI_20220415
+Thunnus alalunga,ALB,551,ALB551,2022-04-15,20220415,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB551_HI_20220415
+Thunnus alalunga,ALB,255,ALB255,2022-04-08,20220408,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB255_HI_20220408
+Thunnus alalunga,ALB,256,ALB256,2022-04-08,20220408,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB256_HI_20220408
+Thunnus alalunga,ALB,265,ALB265,2022-04-11,20220411,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB265_HI_20220411
+Katsuwonus pelamis,SKJ,35,SKJ035,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ035_IO_20230425
+Katsuwonus pelamis,SKJ,34,SKJ034,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ034_IO_20230425
+Katsuwonus pelamis,SKJ,30,SKJ030,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ030_IO_20230425
+Katsuwonus pelamis,SKJ,9,SKJ009,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ009_IO_20230425
+Katsuwonus pelamis,SKJ,8,SKJ008,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ008_IO_20230425
+Katsuwonus pelamis,SKJ,7,SKJ007,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ007_IO_20230425
+Katsuwonus pelamis,SKJ,6,SKJ006,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ006_IO_20230425
+Katsuwonus pelamis,SKJ,5,SKJ005,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ005_IO_20230425
+Katsuwonus pelamis,SKJ,4,SKJ004,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ004_IO_20230425
+Thunnus albacares,YFT,12,YFT012,2022-06-15,20220615,Virginia,not exact coordinates,36.829432,-75.945295,VA,Nadya Mamoozadeh,Fin clip,dried,,YFT012_VA_20220615
+Thunnus albacares,YFT,13,YFT013,2022-06-15,20220615,Virginia,not exact coordinates,36.829432,-75.945295,VA,Nadya Mamoozadeh,Fin clip,dried,,YFT013_VA_20220615
+Thunnus albacares,YFT,14,YFT014,2022-06-15,20220615,Virginia,not exact coordinates,36.829432,-75.945295,VA,Nadya Mamoozadeh,Fin clip,dried,,YFT014_VA_20220615
+Thunnus orientalis,PBT,4,PBT004,2019-09-16,20190916,California,not exact coordinates,32.677513,-117.436728,CA,NOAA SWFSC,Fin clip,in solution,,PBT004_CA_20190916
+Thunnus orientalis,PBT,16,PBT016,2019-09-28,20190928,California,not exact coordinates,32.677513,-117.436728,CA,NOAA SWFSC,Fin clip,in solution,,PBT016_CA_20190928
+Katsuwonus pelamis,SKJ,3,SKJ003,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ003_IO_20230425
+Katsuwonus pelamis,SKJ,2,SKJ002,2023-04-25,20230425,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SKJ002_IO_20230425
+Thunnus alalunga,ALB,214,ALB214,2022-03-30,20220330,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB_HLA_HI_214_S11
+Thunnus alalunga,ALB,549,ALB549,2022-04-14,20220414,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB_HLA_HI_549_S14
+Thunnus alalunga,ALB,550,ALB550,2022-04-14,20220414,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB_HLA_HI_550_S15
+Thunnus alalunga,ALB,552,ALB552,2022-04-15,20220415,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,ALB_HLA_HI_552_S16
+Thunnus alalunga,ALB,36,ALB036,2017-04-30,20170430,Fiji,,-19.39166667,177.2,FJ,,Tissue,came from storage bank,,ALB_WCPFC_FJ_36_S1
+Thunnus alalunga,ALB,54,ALB054,2019-06-05,20190605,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,ALB_WCPFC_NC_54_S2
+Thunnus alalunga,ALB,55,ALB055,2019-06-09,20190609,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,ALB_WCPFC_NC_55_S3
+Thunnus alalunga,ALB,67,ALB067,2021-06-21,20210621,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,ALB_WCPFC_NC_67_S4
+Thunnus alalunga,ALB,72,ALB072,2021-02-08,20210208,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,ALB_WCPFC_NC_72_S5
+Thunnus alalunga,ALB,74,ALB074,2021-01-19,20210119,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,ALB_WCPFC_NC_74_S6
+Thunnus alalunga,ALB,81,ALB081,2021-05-09,20210509,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,ALB_WCPFC_NC_81_S7
+Thunnus alalunga,ALB,84,ALB084,2021-05-09,20210509,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,ALB_WCPFC_NC_84_S8
+Thunnus obseus,BET,183,BET183,2022-03-20,20220320,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BET_HLA_HI_183_S27
+Thunnus obseus,BET,184,BET184,2022-03-20,20220320,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BET_HLA_HI_184_S28
+Thunnus obseus,BET,190,BET190,2022-03-23,20220323,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BET_HLA_HI_190_S29
+Thunnus obseus,BET,191,BET191,2022-03-23,20220323,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BET_HLA_HI_191_S30
+Thunnus obseus,BET,198,BET198,2022-03-23,20220323,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BET_HLA_HI_198_S31
+Thunnus obseus,BET,199,BET199,2022-03-23,20220323,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BET_HLA_HI_199_S32
+Thunnus obseus,BET,200,BET200,2022-03-28,20220328,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BET_HLA_HI_200_S33
+Thunnus obseus,BET,201,BET201,2022-03-28,20220328,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BET_HLA_HI_201_S34
+Thunnus obseus,BET,202,BET202,2022-03-28,20220328,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,BET_HLA_HI_202_S35
+Thunnus obseus,BET,25,BET025,2022-06-20,20220620,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BET_OIFC_NC_25_S36
+Thunnus obseus,BET,26,BET026,2022-06-21,20220621,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BET_OIFC_NC_26_S37
+Thunnus obseus,BET,18,BET018,2020-12-16,20201216,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,BET_WCPFC_NC_18_S17
+Thunnus obseus,BET,21,BET021,2019-03-28,20190328,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,BET_WCPFC_NC_21_S18
+Thunnus obseus,BET,39,BET039,2020-12-16,20201216,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,BET_WCPFC_NC_39_S19
+Thunnus obseus,BET,43,BET043,2021-06-21,20210621,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,BET_WCPFC_NC_43_S20
+Thunnus obseus,BET,44,BET044,2021-06-21,20210621,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,BET_WCPFC_NC_44_S21
+Thunnus obseus,BET,51,BET051,2021-03-15,20210315,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,BET_WCPFC_NC_51_S22
+Thunnus obseus,BET,73,BET073,2021-01-19,20210119,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,BET_WCPFC_NC_73_S23
+Thunnus atlanticus,BKT,59,BKT059,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BKFT_OIFC_NC_59_S38
+Thunnus atlanticus,BKT,60,BKT060,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BKFT_OIFC_NC_60_S39
+Thunnus atlanticus,BKT,61,BKT061,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BKFT_OIFC_NC_61_S40
+Thunnus atlanticus,BKT,62,BKT062,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BKFT_OIFC_NC_62_S41
+Thunnus atlanticus,BKT,63,BKT063,2022-09-07,20220907,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,BKFT_OIFC_NC_63_S42
+Thunnus orientalis,PBT,220,PBT220,2022-03-21,20220321,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,PBFT_HLA_HI_220_S49
+Thunnus orientalis,PBT,590,PBT590,2022-04-19,20220419,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,PBFT_HLA_HI_590_S50
+Thunnus orientalis,PBT,10,PBT010,2019-09-22,20190922,California,not exact coordinates,32.677513,-117.436728,CA,NOAA SWFSC,Fin clip,in solution,,PBFT_SWFSC_CA_949-10_S51
+Thunnus orientalis,PBT,12,PBT012,2019-09-24,20190924,California,not exact coordinates,32.677513,-117.436728,CA,NOAA SWFSC,Fin clip,in solution,,PBFT_SWFSC_CA_949-12_S52
+Thunnus orientalis,PBT,14,PBT014,2019-09-26,20190926,California,not exact coordinates,32.677513,-117.436728,CA,NOAA SWFSC,Fin clip,in solution,,PBFT_SWFSC_CA_949-14_S53
+Thunnus orientalis,PBT,15,PBT105,2019-09-27,20190927,California,not exact coordinates,32.677513,-117.436728,CA,NOAA SWFSC,Fin clip,in solution,,PBFT_SWFSC_CA_949-15_S54
+Thunnus orientalis,PBT,120,PBT120,2019-12-19,20191219,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,PBFT_WCPFC_NC_120_S47
+Thunnus orientalis,PBT,17,PBT017,2018-03-31,20180331,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,PBFT_WCPFC_NC_17_S43
+Thunnus orientalis,PBT,19,PBT019,2017-08-15,20170815,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,PBFT_WCPFC_NC_19_S44
+Thunnus orientalis,PBT,20,PBT020,2018-08-23,20180823,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,PBFT_WCPFC_NC_20_S45
+Thunnus orientalis,PBT,27,PBT027,2018-03-31,20180331,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,PBFT_WCPFC_NC_27_S46
+Thunnus maccoyii,SBT,1,SBT001,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SBFT_UM_SEFSC_R2201ET0001_S9
+Thunnus maccoyii,SBT,2,SBT002,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SBFT_UM_SEFSC_R2201ET0002_S10
+Thunnus maccoyii,SBT,3,SBT003,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SBFT_UM_SEFSC_R2201ET0003_S24
+Thunnus maccoyii,SBT,5,SBT005,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SBFT_UM_SEFSC_R2201ET0005_S25
+Thunnus maccoyii,SBT,7,SBT007,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SBFT_UM_SEFSC_R2201ET0007_S26
+Thunnus maccoyii,SBT,9,SBT009,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SBFT_UM_SEFSC_R2201ET0009_S48
+Thunnus maccoyii,SBT,10,SBT010,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SBFT_UM_SEFSC_R2201ET0010_S55
+Thunnus maccoyii,SBT,13,SBT013,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SBFT_UM_SEFSC_R2201ET0013_S56
+Thunnus maccoyii,SBT,15,SBT015,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SBFT_UM_SEFSC_R2201ET0015_S61
+Thunnus maccoyii,SBT,16,SBT016,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SBFT_UM_SEFSC_R2201ET0016_S70
+Thunnus maccoyii,SBT,17,SBT017,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SBFT_UM_SEFSC_R2201ET0017_S71
+Thunnus maccoyii,SBT,18,SBT018,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SBFT_UM_SEFSC_R2201ET0018_S77
+Thunnus maccoyii,SBT,19,SBT019,2023-05-23,20230523,Indian Ocean,not exact coordinates,-7.265448,92.908143,IO,,Fin clip,dried,,SBFT_UM_SEFSC_R2201ET0019_S78
+Thunnus albacares,YFT,204,YFT204,2022-03-28,20220328,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,YFT_HLA_HI_204_S72
+Thunnus albacares,YFT,205,YFT205,2022-03-28,20220328,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,YFT_HLA_HI_205_S73
+Thunnus albacares,YFT,212,YFT212,2022-03-30,20220330,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,YFT_HLA_HI_212_S74
+Thunnus albacares,YFT,213,YFT213,2022-03-30,20220330,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,YFT_HLA_HI_213_S75
+Thunnus albacares,YFT,223,YFT223,2022-04-01,20220401,Hawaii,,21.31722,-157.87798,HI,Matt Carnes,Fin clip,dried,,YFT_HLA_HI_223_S76
+Thunnus albacares,YFT,2,YFT002,2021-10-08,20211008,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,YFT_NC_21_002_S82
+Thunnus albacares,YFT,47,YFT047,2022-08-19,20220819,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,YFT_OIFC_NC_47_S79
+Thunnus albacares,YFT,48,YFT048,2022-08-19,20220819,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,YFT_OIFC_NC_48_S80
+Thunnus albacares,YFT,49,YFT049,2022-08-19,20220819,North Carolina,,35.796724,-75.547541,NC,Caid Menzel,Fin clip,dried,,YFT_OIFC_NC_49_S81
+Thunnus albacares,YFT,35,YFT035,2022-05-31,20220531,Palmyra Atoll,not exact coordinates,5.88466,-162.128365,PA,Kydd Pollock,Fin clip,in solution,,YFT_TNC_Palm_35_S66
+Thunnus albacares,YFT,36,YFT036,2022-05-31,20220531,Palmyra Atoll,not exact coordinates,5.88466,-162.128365,PA,Kydd Pollock,Fin clip,in solution,,YFT_TNC_Palm_36_S67
+Thunnus albacares,YFT,37,YFT037,2022-05-31,20220531,Palmyra Atoll,not exact coordinates,5.88466,-162.128365,PA,Kydd Pollock,Fin clip,in solution,,YFT_TNC_Palm_37_S68
+Thunnus albacares,YFT,38,YFT038,2022-05-31,20220531,Palmyra Atoll,not exact coordinates,5.88466,-162.128365,PA,Kydd Pollock,Fin clip,in solution,,YFT_TNC_Palm_38_S69
+Thunnus albacares,YFT,35,YFT035,2017-07-04,20170704,Fiji,,-19.39166667,177.2,FJ,,Tissue,came from storage bank,,YFT_WCPFC_FJ_35_S57
+Thunnus albacares,YFT,37,YFT037,2017-04-30,20170430,Fiji,,-19.39166667,177.2,FJ,,Tissue,came from storage bank,,YFT_WCPFC_FJ_37_S58
+Thunnus albacares,YFT,38,YFT038,2017-04-30,20170430,Fiji,,-19.39166667,177.2,FJ,,Tissue,came from storage bank,,YFT_WCPFC_FJ_38_S59
+Thunnus albacares,YFT,42,YFT042,2017-06-06,20170606,Fiji,,-19.39166667,177.2,FJ,,Tissue,came from storage bank,,YFT_WCPFC_FJ_42_S60
+Thunnus albacares,YFT,24,YFT024,2020-10-14,20201014,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,YFT_WCPFC_NC_24_S62
+Thunnus albacares,YFT,26,YFT026,2020-12-06,20201206,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,YFT_WCPFC_NC_26_S63
+Thunnus albacares,YFT,30,YFT030,2019-07-27,20190727,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,YFT_WCPFC_NC_30_S64
+Thunnus albacares,YFT,49,YFT049,2021-03-11,20210311,New Caledonia,,-22.78333333,165.3083333,NA,,Tissue,came from storage bank,,YFT_WCPFC_NC_49_S65
+,,,,,,,,,,,,,,,

@@ -6,10 +6,8 @@ library(dplyr)
 library(tidyr)
 
 
-
 # Import data
 tuna_data = read.csv("metadata.csv", header = TRUE)
-
 
 # Summarize species counts by site
 site_summary <- tuna_data %>%

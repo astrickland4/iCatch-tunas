@@ -74,7 +74,7 @@ p1 <- ggplot(mapping_rate, aes(x = Reference_Clean, y = Mean_Alignment_Rate, fil
   scale_fill_brewer(palette = "Set2") +
   ylim(0, 1)
 p1
-ggsave("plots/mapping_rate_by_species_bars.png", p1, width = 12, height = 7, dpi = 300)
+ggsave("figures/mapping_rate_by_species_bars.png", p1, width = 12, height = 7, dpi = 300)
 
 
 # 2. Mapping rates faceted by reference --------------------------------------
@@ -95,7 +95,7 @@ p2 <- ggplot(mapping_rate, aes(x = Species_Full, y = Mean_Alignment_Rate, fill =
   scale_fill_brewer(palette = "Set2") +
   ylim(0, 1)
 p2
-ggsave("plots/mapping_rate_faceted_by_reference.png", p3, width = 12, height = 10, dpi = 300)
+ggsave("figures/mapping_rate_faceted_by_reference.png", p3, width = 12, height = 10, dpi = 300)
 
 
 # 3. Heatmap of Mean Mapping Rates ----------------------------------------
@@ -116,7 +116,7 @@ p3 <- ggplot(mapping_rate, aes(x = Reference_Clean, y = Species_Full, fill = Mea
   theme(axis.text.x = element_text(angle = 45, hjust = 1),
         panel.grid = element_blank())
 p3
-ggsave("plots/mapping_rate_heatmap.png", p2, width = 10, height = 8, dpi = 300)
+ggsave("figures/mapping_rate_heatmap.png", p2, width = 10, height = 8, dpi = 300)
 
 
 # 4. Best Reference per Species -------------------------------------------
@@ -142,7 +142,7 @@ p4 <- ggplot(best_ref, aes(x = reorder(Species_Full, Mean_Alignment_Rate),
   scale_fill_brewer(palette = "Set1") +
   ylim(0, 1)
 p4
-ggsave("plots/best_reference_per_species.png", p4, width = 10, height = 7, dpi = 300)
+ggsave("figures/best_reference_per_species.png", p4, width = 10, height = 7, dpi = 300)
 
 
 # 5. Mean depth - grouped by species --------------------------------------
@@ -160,7 +160,7 @@ p5 <- ggplot(mapping_metrics, aes(x = Reference_Clean, y = Mean_Depth, fill = Sp
         legend.position = "right") +
   scale_fill_brewer(palette = "Set2")
 p5
-ggsave("plots/mean_depth_by_species.png", p3, width = 12, height = 7, dpi = 300)
+ggsave("figures/mean_depth_by_species.png", p3, width = 12, height = 7, dpi = 300)
 
 
 # 6. Mean depth - average ----------------------------------------------------
@@ -186,7 +186,7 @@ p6 <- ggplot(depth_summary, aes(x = Reference_Clean, y = Mean_Depth_Overall, fil
   scale_fill_brewer(palette = "Set1") +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 p6
-ggsave("plots/mean_depth_overall.png", p4, width = 8, height = 6, dpi = 300)
+ggsave("figures/mean_depth_overall.png", p4, width = 8, height = 6, dpi = 300)
 
 
 # 7. Breadth (1X) - grouped by species ------------------------------------
@@ -205,7 +205,7 @@ p7 <- ggplot(mapping_metrics, aes(x = Reference_Clean, y = Breadth_1x, fill = Sp
   scale_fill_brewer(palette = "Set2") +
   ylim(0, 105)
 p7
-ggsave("plots/breadth_1x_by_species.png", p5, width = 12, height = 7, dpi = 300)
+ggsave("figures/breadth_1x_by_species.png", p5, width = 12, height = 7, dpi = 300)
 
 
 # 8. Breadth (1X) - average -----------------------------------------------
@@ -232,7 +232,7 @@ p8 <- ggplot(breadth_summary, aes(x = Reference_Clean, y = Mean_Breadth_1x, fill
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
   ylim(0, 105)
 p8
-ggsave("plots/breadth_1x_overall.png", p6, width = 8, height = 6, dpi = 300)
+ggsave("figures/breadth_1x_overall.png", p6, width = 8, height = 6, dpi = 300)
 
 
 # 9. Mean mapping quality - grouped by species ----------------------------
@@ -254,7 +254,7 @@ p9 <- ggplot(mapq_data, aes(x = Reference_Clean, y = Mean_MapQ, fill = Species_F
   scale_fill_brewer(palette = "Set2") +
   geom_hline(yintercept = 30, linetype = "dashed", color = "red", alpha = 0.5)
 p9
-ggsave("plots/mean_mapq_by_species.png", p7, width = 12, height = 7, dpi = 300)
+ggsave("figures/mean_mapq_by_species.png", p7, width = 12, height = 7, dpi = 300)
 
 
 # 10. Mean mapping quality - average --------------------------------------
@@ -280,7 +280,7 @@ p10 <- ggplot(mapq_summary, aes(x = Reference_Clean, y = Mean_MapQ_Overall, fill
   scale_fill_brewer(palette="Set1")+
   geom_hline(yintercept = 30, linetype = "dashed", color = "red", alpha = 0.5)
 p10
-ggsave("plots/mean_mapq_overall.png", p8, width = 8, height = 6, dpi = 300)
+ggsave("figures/mean_mapq_overall.png", p8, width = 8, height = 6, dpi = 300)
 
 
 # 11. Multi-panel summary plot --------------------------------------------
@@ -290,5 +290,5 @@ summary_plot <- plot_grid(p4, p6, p8, p10,
                           labels = c("A", "B", "C", "D"),
                           label_size = 14)
 summary_plot
-ggsave("plots/summary_all_metrics.png", summary_plot, width = 14, height = 12, dpi = 300)
+ggsave("figures/summary_all_metrics.png", summary_plot, width = 14, height = 12, dpi = 300)
 

@@ -12,8 +12,8 @@ library(viridis)
 library(reshape2)
 
 # Load mapping rate data and mapping metric data
-mapping_metrics <- read.table("mapping_metrics_final2.txt", header = TRUE, sep = "\t", stringsAsFactors = FALSE)
-mapping_rate <- read.table("alignment_by_species.txt", header = TRUE, sep = "\t", stringsAsFactors = FALSE)
+mapping_metrics <- read.table("./data/mapping_metrics.txt", header = TRUE, sep = "\t", stringsAsFactors = FALSE)
+mapping_rate <- read.table("./data/alignment_by_species.txt", header = TRUE, sep = "\t", stringsAsFactors = FALSE)
 
 # Map species codes to full names
 species_names <- c(
